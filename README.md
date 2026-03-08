@@ -20,7 +20,7 @@ Converts currency using Yahoo Finance API, supports historical date.
 *Optional*. *Type*: String. *Format:* `YYYYMMDD`.*default:* `None`.
 <br>
 
-###Reference
+### Reference
 
  - https://github.com/brianriley/python-currency
  - https://gist.github.com/yml/940298
