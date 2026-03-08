@@ -2,7 +2,7 @@
 Converts currency using Yahoo Finance API, supports historical date.
 <br>
 ### Usage
-```
+```python
 >>> from currency_converter import convert
 >>> convert('USD', 'INR', amount=45233, date='20140506')
 2718955.63
